@@ -4,9 +4,11 @@
 \name{acnh_diy_wallmount}
 \alias{acnh_diy_wallmount}
 \title{Animal Crossing: New Horizons wallmount recipes}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }

@@ -4,9 +4,11 @@
 \name{acnh_diy_other}
 \alias{acnh_diy_other}
 \title{Animal Crossing: New Horizons other diy recipes}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }

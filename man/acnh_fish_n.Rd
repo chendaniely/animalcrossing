@@ -4,9 +4,11 @@
 \name{acnh_fish_n}
 \alias{acnh_fish_n}
 \title{Animal Crossing: New Horizons fish in the northern hemisphere}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }

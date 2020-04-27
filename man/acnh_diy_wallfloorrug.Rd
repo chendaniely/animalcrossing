@@ -4,9 +4,11 @@
 \name{acnh_diy_wallfloorrug}
 \alias{acnh_diy_wallfloorrug}
 \title{Animal Crossing: New Horizons wall, floring, and rug diy recipes}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }

@@ -20,7 +20,7 @@
 #' @source \url{https://github.com/chendaniely/animal_crossing}
 "acnh_bugs_s"
 
-#' Animal Crossing: New Horizons crafting materials
+#' Animal Crossing: New Horizons seasonal crafting materials
 #'
 #' A dataset containing
 #' the crafting materials, image url, how to obtain, and price
@@ -29,7 +29,18 @@
 #' \describe{
 #' }
 #' @source \url{https://github.com/chendaniely/animal_crossing}
-"acnh_crafting"
+"acnh_crafting_seasonal"
+
+#' Animal Crossing: New Horizons yearly crafting materials
+#'
+#' A dataset containing
+#' the crafting materials, image url, how to obtain, and price
+#'
+#' @format A data frame
+#' \describe{
+#' }
+#' @source \url{https://github.com/chendaniely/animal_crossing}
+"acnh_crafting_yearly"
 
 #' Animal Crossing: New Horizons equiptment diy recipes
 #'
@@ -118,6 +129,17 @@
 #' }
 #' @source \url{https://github.com/chendaniely/animal_crossing}
 "acnh_diy_wallmount"
+
+#' Animal Crossing: New Horizons unconfirmed recipes
+#'
+#' A dataset containing
+#' the item, image url, materials needed, size, how it is obtained, and price
+#'
+#' @format A data frame
+#' \describe{
+#' }
+#' @source \url{https://github.com/chendaniely/animal_crossing}
+"acnh_diy_unconfirmed"
 
 #' Animal Crossing: New Horizons fish in the northern hemisphere
 #'

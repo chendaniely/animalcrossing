@@ -4,9 +4,11 @@
 \name{acnh_diy_equipment}
 \alias{acnh_diy_equipment}
 \title{Animal Crossing: New Horizons equiptment diy recipes}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }

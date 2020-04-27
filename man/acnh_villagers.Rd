@@ -4,9 +4,11 @@
 \name{acnh_villagers}
 \alias{acnh_villagers}
 \title{Animal Crossing: New Horizons villagers}
-\format{A data frame
+\format{
+A data frame
 \describe{
-}}
+}
+}
 \source{
 \url{https://github.com/chendaniely/animal_crossing}
 }
