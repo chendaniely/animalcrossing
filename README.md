@@ -13,6 +13,18 @@ remotes::install_github("chendaniely/animalcrossing")
 
 ## Changelog
 
+### 0.0.2
+
+Fixed issues with datasets
+
+- Fixed missing images and values in datasets (discovered by looking at high NA values in villagers dataset)
+  - Only the bugs and fish data are scraped with a phantomjs script
+  - The other tables are pulled using the html directly from the page
+
+- Crafting dataset has been split into has yearly and seasonal materials datasets
+
+- Created the diy unconfirmed dataset
+
 ### 0.0.1
 
 Cleaned up all the datasets:
